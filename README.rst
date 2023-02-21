@@ -30,14 +30,20 @@
 |
 
 ==========
-timebranch
+TimeBranch
 ==========
 
 
-    Add a short description here!
+    TimeBranch is an open-source time tracking application built using Python and Streamlit, designed to be easy to use and customizable.
 
 
-A longer description of your project goes here...
+The TimeBranch project is an open-source time tracking application that allows users to track their time spent on different activities and projects. It is designed to be easy to use and customizable, with a flexible interface that allows users to create their own projects and track their progress.
+
+The project is built using Python, Streamlit, Plotly, and a database connector library such as gspread or notion-client. The TimeBranch repo on GitHub contains all the necessary code and resources to run the application locally or deploy it to a cloud hosting platform.
+
+The repo includes a Streamlit dashboard for data input and visualization, a set of Python scripts for connecting to the database and retrieving data, and a README file with instructions for setting up and running the application. The repo also includes a license file specifying the use and distribution terms of the software.
+
+The TimeBranch project is licensed under the GPL v3 license, which means that it is free and open-source software that can be used, modified, and distributed by anyone under the terms of the license. The project is maintained by a community of contributors who work together to improve and expand the functionality of the application.
 
 
 .. _pyscaffold-notes:
